@@ -1,0 +1,13 @@
+How to run the project in your laptop ??
+Step1
+- Download the project from the repository or from Dropbox
+- Extract the project in your laptop
+- Open the project in your VS code
+- Install the required packages by running the command "pip install psycopg2" in your terminal
+- Run the project by running the command "python main.py" in your terminal
+- You will see the first page of the project
+- You can fill up the details to verify either its working or not accoproding to the requirement. 
+Requirement are: 
+- Add new customer orders
+- View all customer orders in a table
+- Automatically record order date and time
