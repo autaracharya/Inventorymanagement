@@ -1,8 +1,6 @@
 # Customer Orders Management System
 
 # Author: Autar Acharya  
-# Student ID: 8906942  
-## Course: Small Business Solution
 
 ## Project Description
 
